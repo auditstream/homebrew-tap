@@ -1,5 +1,5 @@
 class Auditstream < Formula
-  desc "CLI binary for the Auditstream Postgres audit trail engine"
+  desc "CLI binary for the Auditstream database audit trail engine"
   homepage "https://auditstream.dev"
   version "0.1.0"
   if OS.mac?
